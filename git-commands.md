@@ -7,7 +7,7 @@ The purpose of this file is for you to demonstrate your knowledge of working wit
 pwd
 
 # (2) List the files in your current directory [1 point]
-ls 
+ls
 
 # (3) Change your directory to a folder in which you do work for this class (if you haven't created such a folder, please do so now — perhaps titled "INFO201") [1 point]
 cd info201_su23_AA
@@ -19,13 +19,13 @@ git clone https://github.com/info201a-su23/assignment-01-ihende
 cd assignment-01-ihende
 
 # (6)  What is the *absolute path* of the image file "covid-example-2.png"? (You can answer the absolute path on your own computer, or the absolute path only within the GitHub repository) [1 points]
-cd /Users/isabellehenderson/desktop/info201_su23_AA/assignment-01-ihende/images/COVID-19-Visualizations/covid-example-2
+cd /Users/isabellehenderson/Desktop/info201_su23_AA/assignment-01-ihende/images/COVID-19-Visualizations/covid-example-2.png
 
 # (7) Add all of the changes that you've made to this file with git [1 point]
 git add .
 
 # (8) Commit these changes, and include a *descriptive message* [2 points]
-git commit -m "completed"
+git commit -m "completed Part 1"
 
 # (9) Finally, push your changes to GitHub [1 point]
 git push
