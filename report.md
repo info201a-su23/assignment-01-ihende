@@ -19,11 +19,11 @@ April 2016
 
 3. **Who is the audience for the visualization?**
 
-This audience could have many audiences it was intended for, including consumers of film or even film creators themselves. The data could highlight disparities that may not be realized by those who consume biased media or those who create them.
+This visualization could have many audiences it was intended for, including consumers of film or even film creators themselves. The data could highlight disparities that may not be realized by those who consume biased media or those who create them.
 
 4. **How might the visualization be interpreted or misinterpreted? What consequences might this interpretation/misinterpretation have?**
 
-As always, data like this can be misinterpreted. One may interpret this data as a display of the proportion of male and female roles in movies. However, this data doesn't display that information and instead shows the nature of male and female roles themselves. This may have consequences as audiences will extract different ideas than were being conveyed with the graph and miss crucial information regarding sexism in the film industry.
+As always, data like this can be misinterpreted. One may interpret this data as a display of the proportion of male and female roles in movies. However, this data doesn't display that information and instead shows the nature of male and female roles themselves. This may have consequences as audiences will extract different ideas than were being conveyed with the graph and miss crucial information regarding sexism in the nature of male and female roles in the film industry.
 
 5. **How, if at all, does the data visualization represent power or systems?**
 
