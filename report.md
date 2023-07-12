@@ -5,7 +5,7 @@
 
 ## Data Viz Summary
 ![Data Viz Image](images/data-viz-image.png)
-This data visualization is a dot plot that displays the distribution of dialogue between men and women in 2,000 screenplays. The data is measured by percentages, ranging from screenplays where 100% of words are male and 100% of words are female. The way this data is displayed showers viewers that there is an uneven distribution of speaking roles in screenplays between men and women. A vast majority of screenplays have over half the dialogue coming from men. Essentially, this data is communicating a disparity in men and women and how much talking time they may get on the screen. As [mashable.com](https://mashable.com/article/film-dialogue-gender-charts) says:
+This data visualization is a dot plot that displays the distribution of dialogue between men and women in 2,000 screenplays. The data is measured by percentages, ranging from screenplays where 100% of words are male and 100% of words are female. The way this data is displayed shows viewers that there is an uneven distribution of speaking roles in screenplays between men and women. A vast majority of screenplays have over half the dialogue coming from men. Essentially, this data is communicating a disparity in men and women and how much talking time they may get on the screen. As [mashable.com](https://mashable.com/article/film-dialogue-gender-charts) says:
 > It paints a pretty one-sided picture of the roles men and women play in America's highest grossing films.
 
 ## Data Viz Biography
@@ -13,7 +13,7 @@ This data visualization is a dot plot that displays the distribution of dialogue
 
 This visualization was produced by Hanah Anderson and Matt Daniels.
 
-2.**When was it produced?**
+2. **When was it produced?**
 
 April 2016
 
